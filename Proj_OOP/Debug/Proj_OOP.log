@@ -1,0 +1,23 @@
+﻿Build started 5/11/2016 9:52:03 PM.
+     1>Project "E:\2ndyear2ndsemester.old\OOP\C\Projects.new\Proj_OOP\Proj_OOP\Proj_OOP.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         E:\VS2012\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Account.cpp MainMenu.cpp
+         MainMenu.cpp
+     1>e:\2ndyear2ndsemester.old\oop\c\projects.new\proj_oop\proj_oop\mainmenu.cpp(641): warning C4101: 'option' : unreferenced local variable
+     1>e:\2ndyear2ndsemester.old\oop\c\projects.new\proj_oop\proj_oop\mainmenu.cpp(640): warning C4101: 'emp' : unreferenced local variable
+     1>e:\2ndyear2ndsemester.old\oop\c\projects.new\proj_oop\proj_oop\mainmenu.cpp(641): warning C4101: 'ch' : unreferenced local variable
+     1>e:\2ndyear2ndsemester.old\oop\c\projects.new\proj_oop\proj_oop\mainmenu.cpp(641): warning C4101: 'Dept' : unreferenced local variable
+         Account.cpp
+     1>e:\2ndyear2ndsemester.old\oop\c\projects.new\proj_oop\proj_oop\account.cpp(341): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\2ndyear2ndsemester.old\oop\c\projects.new\proj_oop\proj_oop\account.cpp(410): warning C4244: '=' : conversion from 'double' to 'pay_l', possible loss of data
+     1>e:\2ndyear2ndsemester.old\oop\c\projects.new\proj_oop\proj_oop\account.cpp(435): error C2276: '*' : illegal operation on bound member function expression
+     1>e:\2ndyear2ndsemester.old\oop\c\projects.new\proj_oop\proj_oop\account.cpp(451): error C2276: '*' : illegal operation on bound member function expression
+     1>e:\2ndyear2ndsemester.old\oop\c\projects.new\proj_oop\proj_oop\account.cpp(502): error C2276: '*' : illegal operation on bound member function expression
+     1>e:\2ndyear2ndsemester.old\oop\c\projects.new\proj_oop\proj_oop\account.cpp(504): warning C4244: '=' : conversion from 'currency_t' to 'int', possible loss of data
+     1>e:\2ndyear2ndsemester.old\oop\c\projects.new\proj_oop\proj_oop\account.cpp(506): warning C4244: 'argument' : conversion from 'double' to 'pay_l', possible loss of data
+         Generating Code...
+     1>Done Building Project "E:\2ndyear2ndsemester.old\OOP\C\Projects.new\Proj_OOP\Proj_OOP\Proj_OOP.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:05.66
